@@ -1,6 +1,6 @@
 # Project EyeGuard
 
-Secutiy for the school
+School system security
 
 ## Installation
 
